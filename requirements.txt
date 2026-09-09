@@ -10,4 +10,4 @@ codecarbon>=2.8.0
 
 # Optional (nicer maps with coastlines)
 # The notebook runs without this, but it is recommended
-cartopy>=0.25.0
+#cartopy>=0.25.0
